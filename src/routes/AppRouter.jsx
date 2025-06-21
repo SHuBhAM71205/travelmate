@@ -1,8 +1,8 @@
 import { Routes, Route, Navigate } from "react-router-dom";
 import { useAppContext } from "../context/AppContext.jsx";
 
-import Home from "../pages/Home.jsx";
-import Login from "../pages/Login.jsx"
+import Home from "../Pages/Home.jsx";
+import Login from "../Pages/Login.jsx"
 
 import UserDashboard from "../components/User/UserDashboard.jsx";
 import UserTripBooking from "../components/User/UserTripBooking.jsx";
